@@ -1,0 +1,25 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+
+# Model and weight files
+*.h5
+*.json
+
+# Images and outputs
+*.jpg
+*.jpeg
+*.png
+
+# Environment folders
+env/
+.venv/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+
+# VSCode settings (optional)
+.vscode/
