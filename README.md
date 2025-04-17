@@ -24,8 +24,13 @@ This helps in understanding **how deep learning models "see" images**, layer by 
 ---
 
 ## 📁 Project Structure
-
-Activation_visualizer/ ├── model_a1.json # Saved model architecture ├── model.weights.h5 # Model weights ├── test.jpg # Input image for testing ├── visualize.py # Main Python script ├── environment.yml # Conda environment setup └── README.md # This file!
+**Activation_visualizer/**
+-model_a1.json (Model architecture)
+-model.weights.h5 (Model weights)
+-test.jpg (Input image to test)
+-visualize.py (Python script to visualize the image)
+-environment.yml (for creating a conda environment with required dependencies to run on your device)
+-README.md (Optional)
 
 ## 🛠 Requirements
 
